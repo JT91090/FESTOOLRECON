@@ -1,8 +1,8 @@
 import requests
 import os
 
-TOKEN = os.getenv(8583009431:AAHUyQVxGlueQJ4imaNX-6Ci3aWPn5U44y4)
-CHAT_ID = os.getenv(8463304596)
+TOKEN = os.getenv(AAHUyQVxGlueQJ4imaNX-6Ci3aWPn5U44y4)
+CHAT_ID = os.getenv(8583009431)
 # This is the "secret" clean data feed for the store
 URL = "https://www.festoolrecon.com/products.json"
 FILE_NAME = "last_seen_ids.txt"
